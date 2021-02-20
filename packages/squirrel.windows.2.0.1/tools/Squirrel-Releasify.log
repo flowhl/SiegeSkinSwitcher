@@ -1,0 +1,9 @@
+﻿[25/10/20 18:07:31] info: Program: Starting Squirrel Updater: --releasify Siegeskinswitcher.1.0.0.nupkg
+[25/10/20 18:07:31] info: Program: Bootstrapper EXE found at:C:\Users\Florian\source\repos\SiegeSkinSwitcher\packages\squirrel.windows.2.0.1\tools\Setup.exe
+[25/10/20 18:07:31] info: Program: Creating release package: C:\Users\Florian\source\repos\SiegeSkinSwitcher\Releases\Siegeskinswitcher.1.0.0.nupkg
+[25/10/20 18:07:31] info: ReleasePackage: Creating release package: C:\Users\Florian\source\repos\SiegeSkinSwitcher\Releases\Siegeskinswitcher.1.0.0.nupkg => C:\Users\Florian\source\repos\SiegeSkinSwitcher\Releases\Siegeskinswitcher-1.0.0-full.nupkg
+[25/10/20 18:07:32] info: ReleasePackage: Extracting dependent packages: []
+[25/10/20 18:07:32] info: ReleasePackage: Removing unnecessary data
+[25/10/20 18:07:32] info: ReleasePackage: No release notes found in C:\Users\Florian\AppData\Local\SquirrelTemp\tempa\Siegeskinswitcher.nuspec
+[25/10/20 18:07:35] info: Program: Building embedded zip file for Setup.exe
+[25/10/20 18:07:41] info: Program: Finished Squirrel Updater

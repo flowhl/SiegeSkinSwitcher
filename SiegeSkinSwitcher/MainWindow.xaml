@@ -1,0 +1,20 @@
+﻿<Window x:Class="SiegeSkinSwitcher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SiegeSkinSwitcher"
+        mc:Ignorable="d"
+        Title="Skinswitcher" Height="274.167" Width="277.5"
+        Background="#131314" ResizeMode="CanMinimize">
+    <Grid Margin="0,0,0,1">
+
+        <local:ToggleSwitch x:Name="Bu" HorizontalAlignment="Center" Height="60" Margin="162,12,10,175" VerticalAlignment="Center" Width="80" MouseLeftButtonDown="Bu_MouseLeftButtonDown"/>
+        <Label Content="ESL MODE" HorizontalAlignment="Left" Margin="10,15,0,0" VerticalAlignment="Top" Foreground="White" FontWeight="Bold" FontSize="25"/>
+        <Button Content="Apply" Name="ApplyButton"  HorizontalAlignment="Left" Margin="10,71,0,0" VerticalAlignment="Top" Width="243" Click="ApplyButton_Click"/>
+
+        <Button Content="save current as ESL config" x:Name="ELSConfig"  HorizontalAlignment="Left" Margin="10,160,0,0" VerticalAlignment="Top" Width="243" Click="ELSConfig_Click"/>
+        <Button Content="save current as normal config" x:Name="normalConfig" HorizontalAlignment="Left" Margin="10,197,0,0" VerticalAlignment="Top" Width="243" Click="normalConfig_Click"/>
+        <Button Content="select savegames folder" x:Name="ubiFolder"  HorizontalAlignment="Left" Margin="10,123,0,0" VerticalAlignment="Top" Width="243" Click="ubiFolder_Click"/>
+    </Grid>
+</Window>
