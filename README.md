@@ -6,7 +6,7 @@ This program lets you switch your siege skins in a metter of seconds
 - [About](#beginner-about)
 - [Usage](#zap-usage)
   - [Installation](#electric_plug-installation)
-  - [How to use](#package-commands)
+  - [How to use](#package-how to use)
 - [Development](#wrench-development)
   - [Pre-Requisites](#notebook-pre-requisites)
   - [Deployment](#rocket-deployment)  
