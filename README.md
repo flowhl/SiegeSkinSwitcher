@@ -39,7 +39,7 @@ How to setup and use this:
 - unequip every single skin
 - click "save current als ESL config" to save the unequipped skins as a template for ESL or other competitive games
 
-#Usage:
+# Usage:
 - toggle the skins using the slider : ESL mode means no skins
 - hit apply 
 ##  :wrench: Development
