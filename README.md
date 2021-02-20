@@ -40,8 +40,9 @@ How to setup and use this:
 - click "save current als ESL config" to save the unequipped skins as a template for ESL or other competitive games
 
 # Usage:
+- close Siege
 - toggle the skins using the slider : ESL mode means no skins
-- hit apply 
+- hit apply and start the game
 ##  :wrench: Development
 - as I only use it from time to time and see no additional features I wont continue developing. It was just a small side project to simplify changing skins
 - you can improve it and participate in the development
