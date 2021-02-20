@@ -28,7 +28,7 @@ How to setup and use this:
 
 
 ###  :package: Tutorial
-#Setup:
+# Setup:
 - click "select savegames folder"
 - find your savegame: 
   - its located in "C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\savegames\(your uplay id)\635"
