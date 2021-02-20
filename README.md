@@ -55,7 +55,7 @@ Where is my savegame folder?
 - usually it is "C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\savegames\(your uplay id)\635"
 
 ##  :camera: Gallery
-Pictures of your project.
+![GUI](https://ibb.co/xGnydGN)
 
 ##  :lock: License
 Copyright 2021 sntlYeet
