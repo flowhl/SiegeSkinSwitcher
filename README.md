@@ -18,45 +18,43 @@ This program lets you switch your siege skins in a metter of seconds
 ##  :beginner: About
 many competitive tournaments and cups require you to unequip every single skin on every operator. If you play DeSBL or Faceit regularly this means that you have to reequip them every time you want to play non-competitive. 
 
+Just toggle your skins on and off with two clicks!
 ## :zap: Usage
-Write about how to use this project.
+How to setup and use this:
 
 ###  :electric_plug: Installation
-- Steps on how to install this project, to use it.
-- Be very detailed here, For example, if you have tools which run on different operating systems, write installation steps for all of them.
+- run setup.exe
+- congrats you are done
 
 ```
 $ add installations steps if you have to.
 ```
 
-###  :package: tutorial
-- Commands to start the project.
+###  :package: Tutorial
+#Setup:
+- click "select savegames folder"
+- find your savegame: 
+  - its located in "C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\savegames\(your uplay id)\635"
+  - depending on your uplay accounts use the one id of your main account (probably the one with the most subfolders)
+  - it has to be 635 as it implifies which game it belongs to
+- select the "635" folder
+- click "save current as normal config" to save your current skins as the normal configuration
+- unequip every single skin
+- click "save current als ESL config" to save the unequipped skins as a template for ESL or other competitive games
 
+#Usage:
+- toggle the skins using the slider : ESL mode means no skins
+- hit apply 
 ##  :wrench: Development
-If you want other people to contribute to this project, this is the section, make sure you always add this.
-
-### :notebook: Pre-Requisites
-List all the pre-requisites the system needs to develop this project.
-- A tool
-- B tool
-
-###  :nut_and_bolt: Development Environment
-Write about setting up the working environment for your project.
-- How to download the project...
-- How to install dependencies...
+- as I only use it from time to time and see no additional features I wont continue developing. It was just a small side project to simplify changing skins
+- you can improve it and participate in the development
 
 ### :rocket: Deployment
-Write the deployment instruction here.
-
-### :exclamation: Guideline
-coding guidelines or other things you want people to follow should follow.
+Deployed using squirrel.windows - one click installation with no wizzard needed!
 
 ## :question: FAQ
 Where is my savegame folder? 
 - usually it is "C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\savegames\(your uplay id)\635"
-
-##  :page_facing_up: Resources
-Add important resources here
 
 ##  :camera: Gallery
 Pictures of your project.
