@@ -1,3 +1,4 @@
+### [download latest version](https://github.com/sntlyeet/SiegeSkinSwitcher/releases/latest/download/setup.exe)
 # Introduction
 This program lets you switch your siege skins in a metter of seconds
 
@@ -14,7 +15,7 @@ This program lets you switch your siege skins in a metter of seconds
 - [Resources](#page_facing_up-resources)
 - [Gallery](#camera-gallery)
 - [License](#lock-license)
-[download latest version](https://github.com/sntlyeet/SiegeSkinSwitcher/releases/latest/download/setup.exe)
+
 ##  :beginner: About
 many competitive tournaments and cups require you to unequip every single skin on every operator. If you play DeSBL or Faceit regularly this means that you have to reequip them every time you want to play non-competitive. 
 
