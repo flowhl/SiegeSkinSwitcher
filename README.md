@@ -1,4 +1,4 @@
-### [download latest version](https://github.com/sntlyeet/SiegeSkinSwitcher/releases/latest/download/setup.exe)
+### [:red_circle: download latest version](https://github.com/sntlyeet/SiegeSkinSwitcher/releases/latest/download/setup.exe)
 # Introduction
 This program lets you switch your siege skins in a metter of seconds
 
