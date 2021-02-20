@@ -26,9 +26,6 @@ How to setup and use this:
 - run setup.exe
 - congrats you are done
 
-```
-$ add installations steps if you have to.
-```
 
 ###  :package: Tutorial
 #Setup:
